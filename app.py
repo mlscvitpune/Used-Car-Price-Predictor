@@ -35,16 +35,14 @@ def predict():
             input[0].append(i)
         # print(input)
         prediction_lr = model_lr.predict(input)
-        prediction_gbr = model_gbr.predict(input)
         prediction_nn = model_nn.predict(input)
         output_lr = round(prediction_lr[0], 2)
-        output_gbr = round(prediction_gbr[0], 2)
         output_nn = round(prediction_nn[0][0], 2)
         # print(output_nn)
         if output_lr < 0:
             return render_template('index.html', prediction_texts="Sorry you cannot sell this car")
         else:
-            return render_template('index.html', prediction_text_lr="Linear Regression: You can sell the Car at ₹{} ".format(output_lr), prediction_text_gbr="Gradient Boosting Regressor: You can sell the Car at ₹{} ".format(output_gbr), prediction_text_nn="Neural Networks: You can sell the Car at ₹{} ".format(output_nn))
+            return render_template('index.html', prediction_text_lr="Linear Regression: You can sell the Car at ₹{} ".format(output_lr), prediction_text_nn="Neural Networks: You can sell the Car at ₹{} ".format(output_nn))
     else:
         return render_template('index.html')
 
