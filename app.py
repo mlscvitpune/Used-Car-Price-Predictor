@@ -5,15 +5,11 @@ from tensorflow import keras
 
 app = Flask(__name__)
 model_lr = pickle.load(open('linear_regression.pkl', 'rb'))
-model_gbr = pickle.load(open('gbr.pkl', 'rb'))
 model_nn = keras.models.load_model('neural_net.h5')
 @app.route('/', methods=['GET'])
 def Home():
-    # return render_template('index.html', cities=cities)
     return render_template('index.html')
 
-
-# cities = ["Bengaluru", "Chennai", "Faridabad", "Ghaziabad", "Gurgao", "Hyderabad", "Kolkata", "Lucknow", "Mumbai", "New Delhi", "Noida", "Pune"]
 
 @app.route("/predict", methods=['POST'])
 def predict():
@@ -27,18 +23,19 @@ def predict():
         Transmission = float(request.form.get('Transmission_Mannual'))
         Body_type = float(request.form.get('Body_type'))
         warranty = int(request.form.get('Warranty'))
+
         city = request.form.get('City')
+
         city_arr = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
         city_arr[int(city)] = 1
         input = [[car_name, Year, Fuel_Type, Kms_Driven, Body_type, Transmission, Owner, Present_Price, warranty]]
         for i in city_arr:
             input[0].append(i)
-        # print(input)
+            
         prediction_lr = model_lr.predict(input)
         prediction_nn = model_nn.predict(input)
         output_lr = round(prediction_lr[0], 2)
         output_nn = round(prediction_nn[0][0], 2)
-        # print(output_nn)
         if output_lr < 0:
             return render_template('index.html', prediction_texts="Sorry you cannot sell this car")
         else:
