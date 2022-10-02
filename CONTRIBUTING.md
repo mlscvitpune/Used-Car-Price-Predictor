@@ -25,7 +25,7 @@ $ git clone https://github.com/your-name/Used-Car-Price-Predictor.git
 Change your directory in your terminal window so that you are working in the repository's directory before creating your branch. Switch into that directory by using the following Command.
 
 ````bash
-$ cd Development-App/
+$ cd Used-Car-Price-Predictor/
 ````
 
 Using the git branch command, we'll now create a new branch. To ensure that other project participants understand what you are working on, give it a name that is descriptive to your issue.
