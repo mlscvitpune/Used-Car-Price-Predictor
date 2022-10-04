@@ -41,6 +41,12 @@ body {
     display: flex;
     flex-wrap: wrap;
 }
+.parameter-value label, select.parameter-value, option{
+    cursor: pointer;
+}
+.parameter-value label{
+    padding-left: 5px;
+}
 
 .parameter-container{
     /* border: 1px solid green; */
