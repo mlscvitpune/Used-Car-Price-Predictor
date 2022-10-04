@@ -37,9 +37,9 @@ def predict():
         output_lr = round(prediction_lr[0], 2)
         output_nn = round(prediction_nn[0][0], 2)
         if output_lr < 0:
-            return render_template('index.html', prediction_texts="Sorry you cannot sell this car")
+            return render_template('predict.html', prediction_texts="Sorry you cannot sell this car")
         else:
-            return render_template('index.html', prediction_text_lr="Linear Regression: You can sell the Car at ₹{} ".format(output_lr), prediction_text_nn="Neural Networks: You can sell the Car at ₹{} ".format(output_nn))
+            return render_template('predict.html', prediction_text_lr="Linear Regression: You can sell the Car at ₹{} ".format(output_lr), prediction_text_nn="Neural Networks: You can sell the Car at ₹{} ".format(output_nn))
     else:
         return render_template('index.html')
 
