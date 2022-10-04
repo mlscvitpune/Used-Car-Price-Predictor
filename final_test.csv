@@ -1,0 +1,497 @@
+car_name,yr_mfr,fuel_type,kms_run,city,body_type,transmission,total_owners,original_price,warranty_avail,sale_price
+maruti,2012,petrol,69029,pune,sedan,manual,3,365029,FALSE,364299
+hyundai,2017,diesel,53648,lucknow,suv,automatic,1,1125840,FALSE,1082011
+hyundai,2010,petrol,59295,chennai,hatchback,manual,2,286499,FALSE,286399
+maruti,2014,petrol,50294,bengaluru,hatchback,manual,1,349654,FALSE,283299
+maruti,2013,petrol,116848,bengaluru,hatchback,manual,1,263694,FALSE,205299
+mahindra,2015,diesel,85560,faridabad,luxury suv,manual,2,717030,FALSE,715299
+maruti,2015,petrol,43743,bengaluru,hatchback,manual,2,591000,FALSE,499099
+maruti,2012,diesel,72428,new delhi,hatchback,manual,1,278806,FALSE,203899
+hyundai,2008,petrol,71758,mumbai,hatchback,manual,1,163699,FALSE,157399
+hyundai,2012,petrol,41632,hyderabad,hatchback,automatic,1,466946,FALSE,383999
+honda,2015,petrol,121587,hyderabad,sedan,manual,1,755875,FALSE,620299
+maruti,2010,petrol,29699,mumbai,hatchback,manual,1,241838,FALSE,210099
+hyundai,2011,petrol,82120,hyderabad,hatchback,manual,1,470953,FALSE,387899
+volkswagen,2011,petrol,50372,mumbai,hatchback,manual,2,305199,FALSE,305099
+maruti,2013,diesel,59531,bengaluru,sedan,manual,1,624990,FALSE,504899
+tata,2010,petrol,9278,bengaluru,hatchback,manual,1,96899,FALSE,89099
+maruti,2016,diesel,25881,ahmedabad,suv,manual,1,945633,FALSE,802199
+jeep,2017,diesel,25491,mumbai,luxury suv,manual,2,1390061,FALSE,1389758
+honda,2011,petrol,80062,pune,sedan,automatic,1,399799,FALSE,394099
+maruti,2017,petrol,29996,hyderabad,hatchback,manual,2,546299,FALSE,546199
+honda,2010,petrol,49945,new delhi,hatchback,manual,1,327902,FALSE,288499
+honda,2018,petrol,28944,bengaluru,sedan,manual,1,589410,FALSE,570399
+hyundai,2012,petrol,72110,gurgaon,hatchback,manual,2,261335,FALSE,237199
+hyundai,2016,petrol,14894,bengaluru,hatchback,manual,2,564399,FALSE,560999
+maruti,2019,petrol,15028,chennai,suv,manual,1,480199,FALSE,465599
+maruti,2015,petrol,31796,bengaluru,hatchback,manual,1,467618,FALSE,386799
+tata,2015,diesel,135250,lucknow,suv,manual,2,646493,FALSE,626999
+maruti,2015,diesel,62761,chennai,sedan,manual,1,676384,FALSE,567199
+maruti,2016,diesel,73401,chennai,hatchback,manual,1,631887,FALSE,520499
+hyundai,2007,petrol,86033,hyderabad,hatchback,manual,2,253599,FALSE,249599
+maruti,2018,petrol & cng,8452,mumbai,hatchback,manual,1,487599,FALSE,487499
+toyota,2017,diesel,88398,noida,suv,manual,2,1576067,FALSE,1248358
+maruti,2012,diesel,62307,hyderabad,hatchback,manual,1,494834,FALSE,410599
+maruti,2012,petrol,83548,lucknow,sedan,manual,1,408171,FALSE,366799
+hyundai,2013,diesel,51472,bengaluru,hatchback,manual,1,485700,FALSE,415699
+maruti,2018,petrol & cng,52539,noida,hatchback,manual,1,402999,FALSE,401799
+maruti,2007,petrol,117800,hyderabad,hatchback,manual,2,202470,FALSE,182199
+maruti,2012,petrol,31540,mumbai,hatchback,manual,1,312699,FALSE,312499
+toyota,2018,diesel,61729,ahmedabad,suv,automatic,1,1494000,FALSE,1490758
+toyota,2012,diesel,103935,gurgaon,suv,manual,2,707399,TRUE,639499
+hyundai,2007,petrol,64809,new delhi,hatchback,manual,2,128889,FALSE,102499
+honda,2015,petrol,36119,pune,sedan,automatic,1,726868,FALSE,673999
+hyundai,2014,petrol,51206,ahmedabad,hatchback,manual,1,436605,FALSE,371899
+maruti,2013,diesel,97585,bengaluru,suv,manual,1,601726,FALSE,595999
+maruti,2015,diesel,78595,noida,sedan,manual,1,498822,FALSE,444499
+jeep,2018,diesel,62683,ahmedabad,luxury suv,manual,1,1660812,FALSE,1367538
+maruti,2010,petrol,58590,mumbai,sedan,manual,2,227299,FALSE,227099
+mahindra,2016,petrol,28640,new delhi,suv,manual,1,414418,FALSE,328099
+hyundai,2018,petrol,14673,gurgaon,hatchback,manual,1,468812,FALSE,450399
+maruti,2012,petrol,121979,ahmedabad,sedan,manual,1,394136,FALSE,359899
+toyota,2014,diesel,227391,bengaluru,suv,manual,1,1129885,FALSE,1129683
+ford,2015,petrol,110966,new delhi,suv,manual,1,571108,FALSE,490999
+maruti,2010,petrol,71122,bengaluru,hatchback,manual,2,264146,FALSE,234399
+maruti,2015,petrol,80800,bengaluru,sedan,manual,3,481299,FALSE,481199
+maruti,2012,diesel,84213,gurgaon,hatchback,manual,1,325179,FALSE,324199
+maruti,2019,petrol,5419,ahmedabad,hatchback,manual,1,696866,FALSE,574999
+hyundai,2008,petrol,29650,pune,hatchback,manual,2,157399,FALSE,157299
+maruti,2012,diesel,79396,new delhi,sedan,manual,1,457943,FALSE,373799
+hyundai,2015,diesel,70207,bengaluru,sedan,automatic,1,770209,FALSE,766599
+mahindra,2016,diesel,62601,ghaziabad,suv,manual,1,335608,FALSE,333799
+hyundai,2012,petrol,71853,chennai,hatchback,manual,2,371005,FALSE,336999
+hyundai,2014,diesel,56549,ghaziabad,hatchback,manual,1,423434,FALSE,340699
+hyundai,2015,petrol,2546,bengaluru,hatchback,manual,1,565746,FALSE,563799
+hyundai,2012,petrol,170597,new delhi,sedan,manual,1,221216,FALSE,197799
+hyundai,2015,diesel,55867,hyderabad,suv,manual,1,1103693,FALSE,916099
+renault,2016,petrol,23226,faridabad,hatchback,manual,1,323285,FALSE,265699
+honda,2013,petrol,68016,ghaziabad,sedan,manual,1,551947,FALSE,424499
+maruti,2019,petrol & cng,5715,noida,suv,manual,1,414683,FALSE,386499
+mahindra,2015,diesel,92400,gurgaon,luxury suv,manual,2,894267,FALSE,858799
+volkswagen,2014,diesel,82081,new delhi,sedan,manual,1,393376,FALSE,310299
+maruti,2012,diesel,242900,mumbai,suv,manual,1,525599,FALSE,521099
+maruti,2017,petrol,49405,bengaluru,hatchback,automatic,2,688470,TRUE,674199
+maruti,2008,petrol & lpg,69982,chennai,hatchback,manual,1,202699,FALSE,193499
+tata,2019,diesel,46337,chennai,suv,manual,1,1952396,FALSE,1914453
+honda,2014,diesel,110899,chennai,sedan,manual,1,692558,FALSE,620199
+maruti,2016,petrol,83735,chennai,hatchback,automatic,1,461199,FALSE,461099
+maruti,2011,petrol,76919,new delhi,hatchback,manual,1,280249,FALSE,251199
+maruti,2017,diesel,51514,mumbai,suv,manual,1,774238,FALSE,668999
+maruti,2018,diesel,72536,chennai,sedan,manual,1,803731,FALSE,674299
+maruti,2018,petrol & cng,84119,hyderabad,hatchback,manual,1,435899,FALSE,423899
+maruti,2016,petrol,38114,bengaluru,suv,manual,1,392199,FALSE,392099
+maruti,2015,petrol,45865,bengaluru,sedan,manual,1,437399,FALSE,437299
+audi,2012,diesel,29177,faridabad,luxury sedan,automatic,1,1193834,FALSE,1184223
+volkswagen,2016,petrol,43771,pune,sedan,manual,1,461788,FALSE,460099
+maruti,2016,diesel,52520,new delhi,suv,manual,2,752415,FALSE,595999
+maruti,2017,diesel,59023,new delhi,suv,manual,2,630266,FALSE,604999
+volkswagen,2015,petrol,35743,bengaluru,hatchback,automatic,1,815539,FALSE,622599
+maruti,2020,petrol,7449,ahmedabad,suv,manual,1,582196,FALSE,472799
+maruti,2011,petrol,39325,new delhi,hatchback,manual,1,290099,FALSE,286099
+mahindra,2016,diesel,60135,bengaluru,suv,automatic,2,696423,FALSE,671999
+maruti,2014,petrol,22656,bengaluru,hatchback,manual,1,414354,FALSE,306999
+toyota,2018,diesel,52726,mumbai,suv,automatic,1,2041889,FALSE,1972932
+maruti,2014,petrol,55269,pune,hatchback,manual,1,244004,FALSE,241499
+hyundai,2012,petrol,62165,ahmedabad,hatchback,manual,2,391171,FALSE,312699
+honda,2014,diesel,82735,hyderabad,sedan,manual,1,597990,FALSE,524699
+maruti,2012,petrol,35190,chennai,hatchback,manual,2,269520,FALSE,212999
+maruti,2013,diesel,30011,bengaluru,sedan,manual,1,656834,TRUE,517499
+maruti,2018,diesel,55960,bengaluru,suv,manual,1,803015,FALSE,788399
+renault,2018,petrol,24872,chennai,hatchback,manual,1,432704,FALSE,364899
+hyundai,2008,petrol,78054,hyderabad,hatchback,manual,1,284119,FALSE,235999
+maruti,2014,petrol,241014,ghaziabad,sedan,manual,1,410325,FALSE,315299
+renault,2018,petrol,21973,ahmedabad,hatchback,manual,1,390904,FALSE,325299
+hyundai,2014,petrol,39007,ahmedabad,hatchback,manual,1,499745,FALSE,432099
+maruti,2009,petrol,90418,new delhi,sedan,manual,1,246394,FALSE,209599
+volkswagen,2017,diesel,49616,chennai,sedan,automatic,1,927427,FALSE,773199
+maruti,2018,diesel,44813,ahmedabad,suv,manual,1,996189,FALSE,803399
+hyundai,2015,petrol,10520,bengaluru,hatchback,manual,1,557838,FALSE,557099
+maruti,2009,petrol,58959,bengaluru,hatchback,manual,2,201999,FALSE,201899
+maruti,2019,petrol,5115,noida,sedan,manual,1,638936,FALSE,625199
+maruti,2019,petrol,27799,ahmedabad,hatchback,manual,1,401089,FALSE,338099
+volkswagen,2016,petrol,95987,hyderabad,hatchback,manual,1,552699,FALSE,552599
+honda,2014,petrol,72201,new delhi,sedan,manual,1,443004,FALSE,371499
+hyundai,2017,petrol,10754,pune,hatchback,manual,1,644322,FALSE,637399
+hyundai,2017,petrol,71494,new delhi,hatchback,manual,1,406310,FALSE,386599
+hyundai,2009,petrol,101931,hyderabad,hatchback,manual,2,224399,FALSE,221899
+honda,2017,petrol,23780,mumbai,suv,manual,1,742945,FALSE,723199
+maruti,2014,diesel,116278,bengaluru,suv,manual,2,614585,FALSE,593599
+hyundai,2013,petrol,57900,new delhi,hatchback,manual,1,330499,FALSE,324199
+hyundai,2018,petrol,11962,hyderabad,hatchback,manual,1,807864,FALSE,659499
+toyota,2011,petrol,156589,new delhi,sedan,manual,1,210599,FALSE,207499
+maruti,2020,petrol,6679,noida,hatchback,manual,1,813742,FALSE,622999
+volkswagen,2016,petrol,17430,bengaluru,hatchback,automatic,2,773830,FALSE,772499
+hyundai,2015,petrol,91984,hyderabad,sedan,manual,1,489584,FALSE,421099
+maruti,2012,petrol,64259,hyderabad,hatchback,manual,1,304510,FALSE,252199
+hyundai,2018,petrol,1827,mumbai,sedan,automatic,1,1187354,FALSE,1182304
+maruti,2015,petrol,30242,pune,hatchback,manual,1,263010,FALSE,257499
+hyundai,2016,petrol,2751,mumbai,hatchback,manual,1,477138,FALSE,469999
+honda,2012,petrol,59949,mumbai,hatchback,manual,2,336599,FALSE,335099
+hyundai,2013,petrol,25052,ahmedabad,hatchback,manual,1,250687,FALSE,238299
+maruti,2010,diesel,160205,pune,sedan,manual,2,309311,FALSE,280799
+hyundai,2013,petrol,115427,chennai,hatchback,manual,1,347910,FALSE,292799
+hyundai,2014,petrol,29094,hyderabad,hatchback,manual,1,557425,FALSE,490799
+maruti,2016,petrol,32339,new delhi,hatchback,manual,1,358742,FALSE,277099
+hyundai,2019,petrol,22647,mumbai,sedan,manual,1,826713,FALSE,822899
+maruti,2018,diesel,12608,bengaluru,suv,manual,1,1049638,FALSE,855999
+maruti,2015,diesel,92086,new delhi,hatchback,manual,1,423780,FALSE,419699
+maruti,2015,diesel,64085,bengaluru,suv,manual,1,694872,FALSE,680199
+maruti,2018,petrol,13638,bengaluru,hatchback,manual,1,647220,FALSE,541799
+maruti,2012,diesel,94644,new delhi,sedan,manual,1,392440,FALSE,333299
+honda,2009,petrol,215809,ghaziabad,hatchback,manual,1,257953,FALSE,202799
+maruti,2015,petrol,31048,mumbai,suv,manual,1,668154,FALSE,660199
+skoda,2010,petrol,106039,hyderabad,luxury sedan,manual,1,506399,FALSE,506299
+maruti,2014,petrol,43981,bengaluru,sedan,manual,1,524741,FALSE,517199
+maruti,2014,petrol,52108,chennai,hatchback,automatic,1,385278,FALSE,380199
+maruti,2015,petrol,100330,noida,sedan,manual,1,694062,FALSE,537599
+maruti,2014,petrol,87237,ghaziabad,hatchback,manual,1,273978,FALSE,200399
+maruti,2013,petrol,29454,bengaluru,hatchback,manual,2,253099,FALSE,252999
+maruti,2017,diesel,51203,pune,suv,manual,1,775344,FALSE,768199
+maruti,2017,diesel,150584,ahmedabad,suv,manual,1,909885,FALSE,731399
+maruti,2018,petrol & cng,150635,ahmedabad,suv,manual,1,886187,FALSE,740799
+maruti,2009,petrol,74034,pune,hatchback,manual,2,252999,FALSE,246999
+maruti,2012,petrol,49323,mumbai,hatchback,manual,1,182199,FALSE,182099
+maruti,2017,petrol,19792,pune,hatchback,manual,1,559123,FALSE,545999
+maruti,2017,petrol & cng,51063,mumbai,hatchback,manual,1,409399,FALSE,409299
+renault,2013,diesel,79962,noida,suv,manual,1,458415,FALSE,365099
+hyundai,2018,petrol,35859,chennai,sedan,manual,1,1145387,FALSE,973399
+maruti,2014,petrol,55075,faridabad,hatchback,manual,1,359488,TRUE,269099
+maruti,2010,petrol,63843,new delhi,hatchback,manual,3,202287,FALSE,180699
+maruti,2017,petrol,53935,ahmedabad,sedan,manual,1,700124,FALSE,548599
+honda,2013,petrol,44622,mumbai,hatchback,manual,1,289899,FALSE,289799
+maruti,2020,petrol,5076,ahmedabad,suv,manual,1,592061,FALSE,481099
+honda,2013,petrol,20924,mumbai,sedan,manual,1,429905,FALSE,411499
+ford,2013,diesel,111690,noida,suv,manual,1,449580,FALSE,384299
+hyundai,2009,petrol,111095,new delhi,hatchback,manual,1,195544,FALSE,187099
+volkswagen,2016,petrol,96726,bengaluru,sedan,automatic,1,627571,FALSE,623899
+maruti,2016,petrol,70380,ahmedabad,hatchback,manual,1,296092,FALSE,259599
+maruti,2019,petrol,19564,chennai,hatchback,manual,1,578199,FALSE,567099
+renault,2019,petrol,16685,ghaziabad,hatchback,manual,1,504069,FALSE,386599
+hyundai,2013,petrol,68242,mumbai,sedan,manual,3,407106,FALSE,367699
+hyundai,2012,diesel,115457,ghaziabad,sedan,manual,1,416990,FALSE,356599
+maruti,2018,diesel,52996,mumbai,sedan,manual,1,709699,FALSE,709499
+maruti,2013,diesel,115820,new delhi,suv,manual,1,466648,FALSE,456899
+maruti,2011,petrol,55810,new delhi,hatchback,manual,2,251251,FALSE,206999
+maruti,2014,petrol,83300,ahmedabad,hatchback,manual,1,489557,FALSE,394499
+maruti,2011,petrol,35039,hyderabad,hatchback,manual,1,238699,FALSE,238599
+maruti,2012,petrol,53558,mumbai,hatchback,manual,1,279699,FALSE,279599
+toyota,2015,petrol,60954,chennai,hatchback,manual,1,514583,FALSE,435099
+maruti,2019,diesel,65709,chennai,sedan,manual,1,698399,FALSE,691699
+maruti,2018,diesel,27623,chennai,hatchback,manual,1,748708,FALSE,658899
+honda,2017,petrol,57969,ahmedabad,sedan,manual,1,977696,FALSE,790299
+volkswagen,2015,petrol,24134,mumbai,hatchback,automatic,1,558500,FALSE,555899
+hyundai,2015,petrol,82350,ahmedabad,hatchback,manual,2,292888,FALSE,260299
+maruti,2016,diesel,71468,ghaziabad,suv,manual,1,801733,FALSE,623799
+maruti,2016,diesel,28987,hyderabad,suv,manual,1,805180,FALSE,777299
+renault,2019,petrol,14779,bengaluru,suv,automatic,2,948387,FALSE,936699
+maruti,2017,petrol,62516,hyderabad,hatchback,manual,1,755490,FALSE,614099
+hyundai,2011,petrol,66622,new delhi,hatchback,manual,1,197299,FALSE,189499
+maruti,2018,petrol,49072,ahmedabad,sedan,manual,1,804000,FALSE,690699
+maruti,2020,petrol,3822,ahmedabad,suv,manual,1,583234,FALSE,476499
+tata,2017,petrol,33205,bengaluru,hatchback,manual,1,498449,FALSE,489599
+maruti,2019,petrol,8940,chennai,hatchback,manual,1,666372,FALSE,575099
+ford,2013,petrol,48861,chennai,suv,manual,1,552340,FALSE,474499
+hyundai,2015,diesel,106123,new delhi,hatchback,manual,1,494399,FALSE,480399
+maruti,2012,diesel,113073,gurgaon,hatchback,manual,1,350206,FALSE,291999
+maruti,2018,petrol,6662,ahmedabad,hatchback,manual,1,405107,FALSE,343299
+maruti,2012,diesel,95321,gurgaon,hatchback,manual,1,441977,FALSE,324599
+maruti,2018,diesel,82508,mumbai,suv,manual,1,931255,FALSE,884399
+maruti,2018,petrol,14275,bengaluru,hatchback,manual,1,405541,FALSE,304399
+renault,2016,diesel,85369,gurgaon,suv,automatic,1,604142,TRUE,522599
+maruti,2015,diesel,171277,hyderabad,hatchback,manual,1,630380,FALSE,511499
+hyundai,2017,petrol,14965,chennai,hatchback,manual,1,605424,FALSE,533399
+maruti,2014,diesel,88835,new delhi,sedan,manual,1,447072,FALSE,354099
+volkswagen,2014,diesel,107465,noida,hatchback,manual,1,486453,FALSE,366399
+hyundai,2017,petrol,38526,hyderabad,hatchback,manual,2,752839,FALSE,623899
+maruti,2017,diesel,76040,chennai,sedan,automatic,1,788490,FALSE,707799
+honda,2017,petrol,54562,chennai,suv,automatic,1,808812,FALSE,806099
+ford,2017,petrol,18510,mumbai,suv,manual,1,611701,FALSE,606699
+hyundai,2016,petrol,41357,gurgaon,hatchback,manual,1,447283,FALSE,352299
+maruti,2014,petrol,23233,hyderabad,hatchback,manual,2,410658,FALSE,357399
+maruti,2012,petrol,71968,bengaluru,hatchback,manual,2,310558,FALSE,298599
+maruti,2010,petrol,46021,bengaluru,hatchback,manual,2,246799,FALSE,246699
+honda,2014,diesel,90426,new delhi,sedan,manual,1,593700,FALSE,523899
+nissan,2013,petrol,46281,chennai,hatchback,manual,2,293599,FALSE,283099
+maruti,2017,diesel,80193,gurgaon,hatchback,manual,1,616621,FALSE,581099
+hyundai,2015,diesel,78599,pune,suv,automatic,2,961500,FALSE,959399
+mahindra,2013,diesel,85256,noida,suv,manual,1,494013,FALSE,378999
+hyundai,2014,petrol,50672,lucknow,sedan,manual,2,461640,FALSE,358799
+maruti,2015,diesel,74575,chennai,sedan,manual,1,624317,FALSE,536099
+maruti,2014,petrol,43955,bengaluru,hatchback,manual,1,460995,FALSE,387199
+maruti,2018,petrol,47051,ahmedabad,sedan,manual,1,804676,FALSE,664599
+hyundai,2012,diesel,109303,new delhi,sedan,manual,1,430465,FALSE,358399
+maruti,2019,petrol & cng,45317,ahmedabad,suv,manual,1,454500,FALSE,452399
+ford,2011,petrol,26569,hyderabad,hatchback,manual,1,288405,FALSE,263199
+maruti,2019,petrol,12583,bengaluru,hatchback,manual,1,704552,FALSE,695599
+maruti,2014,petrol,56469,new delhi,sedan,manual,1,501373,FALSE,479999
+maruti,2014,petrol,12720,chennai,hatchback,manual,1,599520,FALSE,510899
+hyundai,2017,petrol,14538,ahmedabad,hatchback,manual,1,562151,FALSE,478299
+maruti,2015,petrol,57036,bengaluru,hatchback,manual,1,492678,FALSE,485399
+honda,2020,petrol,9344,noida,sedan,manual,1,841107,FALSE,685399
+renault,2019,petrol,7343,bengaluru,hatchback,manual,1,400799,FALSE,400699
+ford,2020,diesel,11371,hyderabad,suv,manual,1,1191000,FALSE,981199
+volkswagen,2014,petrol,56316,mumbai,hatchback,manual,1,420299,FALSE,420099
+maruti,2011,petrol & cng,109283,ghaziabad,hatchback,manual,1,277763,FALSE,274299
+honda,2017,petrol,89362,hyderabad,sedan,automatic,1,953649,FALSE,921799
+hyundai,2016,petrol,22884,ahmedabad,sedan,manual,1,763539,FALSE,618799
+maruti,2017,diesel,43634,hyderabad,suv,manual,1,839767,FALSE,811699
+hyundai,2018,diesel,72527,bengaluru,luxury suv,automatic,2,1711500,FALSE,1651146
+honda,2014,petrol,46348,bengaluru,sedan,manual,1,410500,FALSE,408899
+hyundai,2016,petrol,95260,pune,hatchback,manual,1,466112,FALSE,453799
+maruti,2012,petrol,28610,bengaluru,hatchback,manual,1,256499,FALSE,256399
+maruti,2016,petrol,41120,chennai,hatchback,manual,2,302199,FALSE,302099
+maruti,2014,diesel,81540,hyderabad,sedan,manual,1,643202,FALSE,547899
+maruti,2011,petrol,33717,faridabad,hatchback,manual,1,259017,FALSE,200799
+maruti,2018,petrol & cng,92405,ahmedabad,suv,manual,1,496581,FALSE,422299
+hyundai,2013,petrol,59555,bengaluru,hatchback,automatic,2,454639,FALSE,370299
+maruti,2017,diesel,113808,pune,suv,manual,1,708049,FALSE,662399
+nissan,2014,diesel,22411,chennai,sedan,manual,1,488199,FALSE,478899
+maruti,2020,petrol,6942,ahmedabad,hatchback,manual,1,368626,FALSE,363499
+renault,2015,petrol,32671,chennai,hatchback,manual,1,345648,FALSE,288699
+ford,2013,diesel,90309,ghaziabad,suv,manual,3,449173,FALSE,383699
+maruti,2015,petrol,5972,mumbai,hatchback,manual,1,377999,FALSE,377899
+honda,2016,petrol,43240,mumbai,sedan,manual,1,441793,FALSE,435599
+maruti,2012,petrol,112871,hyderabad,sedan,manual,1,472595,FALSE,417799
+hyundai,2015,petrol,37023,new delhi,hatchback,manual,1,511599,FALSE,507799
+toyota,2013,diesel,205697,noida,luxury suv,manual,1,1115009,FALSE,1105948
+honda,2015,diesel,136775,noida,sedan,manual,1,365626,FALSE,291999
+honda,2015,petrol,72343,mumbai,sedan,manual,1,376899,FALSE,376799
+hyundai,2011,petrol,58202,pune,hatchback,manual,2,346499,FALSE,337399
+renault,2013,diesel,81382,mumbai,suv,manual,1,476999,FALSE,476899
+maruti,2015,petrol,62928,ahmedabad,suv,manual,1,669760,FALSE,531499
+hyundai,2015,petrol,36307,new delhi,hatchback,manual,1,701302,FALSE,552599
+maruti,2016,petrol,16491,mumbai,hatchback,automatic,1,721873,FALSE,669799
+hyundai,2016,diesel,28787,mumbai,suv,manual,1,1059768,FALSE,1021411
+maruti,2008,petrol,143363,new delhi,sedan,manual,1,157799,FALSE,156899
+maruti,2012,petrol,81759,hyderabad,hatchback,manual,2,239642,FALSE,218999
+hyundai,2015,diesel,94412,chennai,suv,automatic,1,918440,FALSE,812499
+hyundai,2011,petrol,35533,hyderabad,hatchback,manual,1,363871,FALSE,317399
+audi,2013,diesel,94895,ghaziabad,luxury sedan,automatic,3,1231133,FALSE,1063528
+hyundai,2012,petrol,83304,bengaluru,hatchback,manual,1,405199,FALSE,405099
+maruti,2016,petrol,45170,bengaluru,hatchback,manual,1,485033,FALSE,385499
+tata,2018,diesel,24707,ahmedabad,suv,automatic,1,1417249,FALSE,1189172
+maruti,2015,petrol,39094,pune,hatchback,manual,2,383299,FALSE,383199
+toyota,2014,diesel,80584,noida,suv,manual,1,778737,FALSE,668299
+maruti,2019,diesel,39910,mumbai,suv,automatic,2,928699,FALSE,928599
+honda,2014,petrol,66724,mumbai,sedan,manual,1,530199,FALSE,529899
+toyota,2011,petrol & cng,82523,new delhi,sedan,manual,2,283741,FALSE,252499
+hyundai,2016,petrol,27015,hyderabad,hatchback,manual,1,596854,FALSE,492199
+maruti,2014,petrol,73364,new delhi,suv,manual,1,609501,FALSE,523499
+hyundai,2016,petrol,32496,chennai,hatchback,automatic,1,576770,FALSE,492399
+hyundai,2013,petrol & lpg,64318,hyderabad,hatchback,manual,2,359196,FALSE,302499
+volkswagen,2010,petrol,42013,mumbai,sedan,manual,1,250847,FALSE,248999
+volkswagen,2012,petrol,100609,mumbai,sedan,manual,1,301299,FALSE,301199
+maruti,2018,petrol,41350,bengaluru,hatchback,manual,1,602500,FALSE,592499
+maruti,2010,petrol,44505,gurgaon,sedan,manual,1,313948,FALSE,268799
+volkswagen,2015,diesel,133949,pune,hatchback,manual,1,404199,FALSE,403499
+honda,2007,petrol,98787,hyderabad,sedan,manual,2,251999,FALSE,251899
+maruti,2015,petrol,27767,mumbai,hatchback,manual,1,323299,FALSE,323099
+maruti,2012,petrol,81861,faridabad,hatchback,manual,1,248776,FALSE,186999
+hyundai,2013,diesel,41999,new delhi,hatchback,manual,1,438529,TRUE,341999
+hyundai,2013,petrol,76084,new delhi,hatchback,manual,1,313158,FALSE,312199
+honda,2012,petrol,99219,new delhi,sedan,manual,2,365299,FALSE,351499
+maruti,2013,petrol & cng,227458,pune,hatchback,manual,1,331048,FALSE,274399
+maruti,2011,petrol,36916,new delhi,hatchback,manual,1,294199,FALSE,240499
+maruti,2016,petrol,32883,chennai,hatchback,manual,2,341036,FALSE,287299
+maruti,2017,petrol,11733,chennai,hatchback,manual,1,432901,FALSE,358699
+maruti,2015,petrol,48615,ghaziabad,hatchback,manual,1,511999,FALSE,415299
+maruti,2018,diesel,65207,hyderabad,hatchback,manual,1,813711,FALSE,684199
+maruti,2011,petrol,17980,noida,hatchback,manual,1,321788,FALSE,270699
+hyundai,2016,petrol,33044,hyderabad,hatchback,manual,2,705914,FALSE,570599
+hyundai,2012,petrol,88747,chennai,hatchback,manual,1,290399,FALSE,290299
+maruti,2014,petrol,65487,chennai,hatchback,manual,1,285025,FALSE,259099
+maruti,2015,diesel,97868,gurgaon,hatchback,manual,1,411935,FALSE,381699
+ford,2014,diesel,59818,gurgaon,suv,manual,1,447549,FALSE,435899
+hyundai,2011,petrol,73867,hyderabad,hatchback,manual,1,343467,FALSE,291599
+maruti,2010,petrol & cng,107892,ahmedabad,hatchback,manual,3,150980,FALSE,133199
+honda,2014,petrol,171211,new delhi,sedan,manual,1,506895,FALSE,405499
+toyota,2012,diesel,170924,noida,suv,manual,1,485798,FALSE,483299
+datsun,2019,petrol,18090,new delhi,hatchback,manual,1,249081,FALSE,248099
+hyundai,2017,petrol,19606,new delhi,hatchback,manual,1,620268,FALSE,615799
+maruti,2016,petrol,17477,chennai,sedan,manual,1,549399,FALSE,549299
+honda,2017,petrol,35805,hyderabad,sedan,manual,2,919830,FALSE,758099
+hyundai,2010,petrol,95624,hyderabad,hatchback,manual,3,297599,FALSE,297499
+hyundai,2011,petrol,82861,chennai,hatchback,manual,1,331899,FALSE,329099
+maruti,2012,diesel,105522,noida,sedan,manual,1,391390,FALSE,326599
+honda,2011,petrol,56727,mumbai,sedan,manual,1,342799,FALSE,342699
+hyundai,2010,petrol,38567,bengaluru,hatchback,manual,1,312399,FALSE,312299
+maruti,2013,diesel,167408,new delhi,suv,manual,1,400370,FALSE,391899
+maruti,2016,petrol,18251,chennai,hatchback,manual,2,314499,FALSE,305599
+mercedes,2011,petrol,81190,ahmedabad,luxury sedan,manual,3,824409,FALSE,669799
+maruti,2014,petrol,63051,pune,sedan,manual,1,389552,FALSE,388799
+maruti,2014,petrol,42968,mumbai,sedan,manual,1,515525,FALSE,439399
+maruti,2014,petrol,45043,chennai,hatchback,manual,2,312810,FALSE,272399
+maruti,2012,petrol,33186,bengaluru,hatchback,manual,2,272299,FALSE,272199
+honda,2012,petrol,88489,new delhi,sedan,manual,2,360686,FALSE,355799
+tata,2017,petrol,46394,new delhi,sedan,manual,1,406259,FALSE,393299
+maruti,2016,petrol & cng,138691,mumbai,suv,manual,1,661174,FALSE,655599
+maruti,2013,diesel,69448,pune,hatchback,manual,1,408257,FALSE,401899
+maruti,2019,petrol,17518,ahmedabad,hatchback,manual,1,614460,FALSE,505799
+hyundai,2011,petrol,38721,faridabad,hatchback,manual,1,166375,FALSE,145799
+renault,2016,petrol,52417,new delhi,hatchback,manual,2,265240,FALSE,219899
+hyundai,2015,petrol,99951,mumbai,luxury sedan,automatic,1,612099,FALSE,607799
+maruti,2013,diesel,154164,new delhi,sedan,manual,1,314899,FALSE,310299
+hyundai,2011,petrol,68764,hyderabad,hatchback,manual,2,354490,FALSE,293099
+maruti,2013,petrol,43859,chennai,sedan,manual,1,559636,FALSE,482099
+maruti,2019,petrol & cng,50814,ahmedabad,suv,manual,1,530537,FALSE,444499
+maruti,2017,diesel,76837,noida,sedan,manual,1,722277,FALSE,565699
+hyundai,2013,petrol,66517,mumbai,sedan,manual,2,397199,FALSE,397099
+hyundai,2015,diesel,76322,pune,hatchback,manual,1,572799,FALSE,572699
+nissan,2011,petrol,137729,chennai,sedan,manual,1,326292,FALSE,307199
+maruti,2015,petrol,52458,new delhi,hatchback,automatic,1,354921,FALSE,350599
+maruti,2018,petrol,24627,chennai,hatchback,manual,1,728991,FALSE,607899
+maruti,2007,petrol,59676,faridabad,hatchback,manual,1,143591,FALSE,103599
+hyundai,2015,petrol,21236,new delhi,hatchback,manual,1,570102,FALSE,567499
+maruti,2015,petrol,47506,pune,hatchback,manual,1,357110,TRUE,304399
+hyundai,2013,diesel,92521,new delhi,sedan,manual,3,454404,FALSE,359199
+hyundai,2016,petrol,24665,gurgaon,hatchback,manual,1,443211,FALSE,427299
+renault,2014,diesel,74016,hyderabad,suv,manual,2,581531,FALSE,507899
+toyota,2012,petrol,85100,new delhi,hatchback,manual,2,296944,FALSE,257999
+hyundai,2009,petrol,48964,chennai,hatchback,manual,1,289385,FALSE,278699
+mahindra,2015,diesel,60362,ghaziabad,suv,manual,2,1086296,FALSE,865399
+mercedes,2013,diesel,41294,noida,luxury sedan,manual,2,1500895,FALSE,1445409
+maruti,2016,diesel,48085,bengaluru,suv,manual,1,856445,FALSE,825999
+mahindra,2014,diesel,97537,mumbai,luxury suv,manual,2,694899,FALSE,694799
+maruti,2014,petrol,50599,bengaluru,hatchback,manual,1,323399,FALSE,323299
+maruti,2014,petrol,91931,new delhi,hatchback,manual,1,399199,FALSE,385399
+audi,2015,diesel,73656,chennai,luxury suv,automatic,2,1850363,FALSE,1646803
+hyundai,2012,petrol,66504,pune,hatchback,manual,2,315099,FALSE,314999
+maruti,2012,petrol,29425,bengaluru,hatchback,manual,2,313999,FALSE,313899
+maruti,2014,petrol,5383,noida,hatchback,manual,1,297210,FALSE,285699
+hyundai,2011,petrol,39597,hyderabad,hatchback,manual,2,338499,FALSE,338399
+hyundai,2015,petrol,35706,noida,hatchback,manual,1,446910,FALSE,431999
+maruti,2011,petrol,70996,bengaluru,hatchback,manual,1,318433,FALSE,257199
+toyota,2016,diesel,51851,mumbai,suv,automatic,2,1711500,FALSE,1708615
+maruti,2013,petrol & cng,62965,new delhi,hatchback,manual,1,311899,FALSE,298599
+hyundai,2011,petrol,52311,bengaluru,hatchback,manual,2,314099,FALSE,313999
+maruti,2009,petrol,66777,bengaluru,hatchback,manual,3,213265,FALSE,209999
+maruti,2014,diesel,155205,hyderabad,sedan,manual,2,555158,FALSE,476299
+maruti,2012,diesel,120777,noida,sedan,manual,1,393338,FALSE,336299
+maruti,2017,petrol,20149,new delhi,sedan,manual,2,651424,FALSE,508499
+honda,2012,petrol,51808,mumbai,sedan,automatic,2,442762,FALSE,411499
+mercedes,2013,diesel,88600,ahmedabad,luxury suv,manual,2,867045,FALSE,719499
+maruti,2009,petrol,70988,new delhi,sedan,manual,1,243499,FALSE,240599
+maruti,2012,diesel,164127,gurgaon,hatchback,manual,1,349028,FALSE,273199
+hyundai,2014,petrol,65178,noida,hatchback,manual,1,516184,FALSE,420099
+maruti,2019,petrol,2576,chennai,hatchback,manual,1,801992,FALSE,648899
+mahindra,2016,diesel,34658,bengaluru,suv,manual,1,756030,TRUE,534599
+honda,2015,petrol,38614,bengaluru,sedan,manual,1,870251,FALSE,702299
+hyundai,2009,petrol & lpg,68306,bengaluru,hatchback,manual,1,240999,FALSE,239999
+tata,2016,petrol,83614,ahmedabad,hatchback,manual,1,380217,FALSE,321099
+maruti,2010,petrol,115045,chennai,hatchback,manual,1,243899,FALSE,230999
+honda,2010,petrol,102047,pune,hatchback,manual,1,249712,FALSE,231899
+hyundai,2009,petrol,102210,bengaluru,hatchback,manual,3,195000,TRUE,181399
+skoda,2017,diesel,38359,pune,sedan,automatic,1,845651,FALSE,826299
+maruti,2018,petrol & cng,57877,ahmedabad,hatchback,manual,1,486131,FALSE,391699
+datsun,2015,petrol,63585,pune,hatchback,manual,1,224992,FALSE,224499
+maruti,2011,petrol,29879,bengaluru,hatchback,manual,2,275950,FALSE,223999
+maruti,2018,petrol,32446,ghaziabad,hatchback,manual,1,445790,FALSE,358899
+maruti,2017,petrol,8480,mumbai,hatchback,automatic,1,575120,FALSE,555699
+hyundai,2013,diesel,81344,gurgaon,hatchback,manual,2,310105,TRUE,285199
+maruti,2015,petrol & cng,148319,mumbai,suv,manual,1,550499,FALSE,548299
+hyundai,2013,petrol,60133,chennai,hatchback,manual,2,415594,FALSE,360699
+honda,2010,petrol,122773,new delhi,sedan,manual,1,324364,FALSE,263899
+mahindra,2012,diesel,163110,pune,luxury suv,manual,1,539703,FALSE,531599
+hyundai,2013,petrol,53063,mumbai,hatchback,manual,2,208599,FALSE,208499
+datsun,2018,petrol,1676,pune,hatchback,manual,1,248703,FALSE,243099
+maruti,2016,petrol,23105,noida,hatchback,manual,1,305121,FALSE,224399
+nissan,2011,diesel,105520,chennai,hatchback,manual,1,284545,FALSE,259099
+honda,2010,petrol,27657,mumbai,sedan,manual,1,317599,FALSE,317499
+hyundai,2015,diesel,20971,bengaluru,hatchback,manual,1,688542,FALSE,678399
+hyundai,2012,petrol,91465,pune,hatchback,manual,1,311899,FALSE,298099
+maruti,2013,petrol,54361,pune,hatchback,manual,2,249099,FALSE,248999
+hyundai,2014,petrol,110017,noida,hatchback,manual,1,403217,FALSE,323499
+hyundai,2012,petrol,43847,mumbai,hatchback,manual,3,210799,FALSE,210699
+honda,2018,petrol,12824,bengaluru,sedan,manual,1,702557,FALSE,681899
+hyundai,2014,petrol & cng,94746,ahmedabad,hatchback,manual,1,303979,FALSE,285899
+hyundai,2010,petrol,111674,new delhi,hatchback,manual,1,190882,FALSE,176099
+mahindra,2016,petrol,27265,chennai,suv,manual,1,411090,FALSE,369999
+hyundai,2015,petrol,56019,bengaluru,hatchback,manual,2,458560,FALSE,447599
+hyundai,2019,petrol,9130,new delhi,suv,manual,1,1104659,FALSE,900799
+maruti,2017,petrol,12889,pune,hatchback,manual,1,436500,FALSE,432099
+maruti,2012,petrol,98462,mumbai,hatchback,manual,1,277898,FALSE,238799
+hyundai,2017,petrol,10302,mumbai,hatchback,manual,1,618949,FALSE,618199
+maruti,2013,petrol,75842,mumbai,hatchback,manual,2,322710,TRUE,238599
+maruti,2016,diesel,169374,chennai,suv,manual,1,765495,FALSE,703899
+hyundai,2015,petrol,58585,new delhi,suv,manual,1,915922,FALSE,732299
+renault,2016,petrol,30632,bengaluru,hatchback,manual,1,346599,FALSE,346499
+maruti,2017,diesel,76217,new delhi,hatchback,manual,2,588077,FALSE,582299
+maruti,2016,diesel,43399,mumbai,suv,manual,1,769825,FALSE,761399
+maruti,2016,petrol & cng,57923,new delhi,hatchback,manual,1,238882,FALSE,237199
+hyundai,2013,petrol,100679,ahmedabad,hatchback,manual,1,311668,FALSE,246499
+maruti,2014,petrol & cng,39571,new delhi,hatchback,manual,1,397697,FALSE,376099
+maruti,2012,diesel,82585,new delhi,hatchback,manual,1,309799,FALSE,302399
+hyundai,2011,petrol,80612,mumbai,hatchback,manual,2,251899,FALSE,251799
+hyundai,2015,petrol,23973,ahmedabad,hatchback,manual,1,657598,FALSE,559399
+hyundai,2016,diesel,88378,new delhi,hatchback,manual,1,651748,FALSE,508499
+hyundai,2009,petrol,97719,bengaluru,hatchback,manual,3,283090,FALSE,228299
+honda,2010,petrol,66894,bengaluru,sedan,automatic,3,424920,FALSE,423899
+volkswagen,2015,diesel,96631,pune,sedan,automatic,1,1078699,FALSE,1052216
+mahindra,2015,diesel,119932,mumbai,luxury suv,manual,2,853387,FALSE,733899
+mahindra,2014,diesel,24847,ghaziabad,suv,manual,1,1032780,FALSE,880799
+tata,2019,petrol,43346,chennai,hatchback,manual,1,529620,FALSE,453399
+hyundai,2011,petrol,95082,ahmedabad,hatchback,manual,1,278933,FALSE,252799
+hyundai,2013,diesel,49718,new delhi,sedan,manual,1,492532,FALSE,397499
+maruti,2016,petrol & cng,48003,mumbai,hatchback,manual,1,359503,FALSE,347699
+skoda,2015,diesel,78966,bengaluru,sedan,manual,3,459100,FALSE,457099
+hyundai,2017,petrol,17713,hyderabad,suv,manual,1,1205890,FALSE,987199
+hyundai,2010,petrol,75640,new delhi,hatchback,manual,2,259799,FALSE,256099
+maruti,2018,petrol,14695,bengaluru,hatchback,manual,1,623420,FALSE,607399
+honda,2016,petrol,24434,ahmedabad,sedan,manual,1,596151,FALSE,504699
+hyundai,2011,petrol,38857,bengaluru,hatchback,manual,1,371299,FALSE,371199
+hyundai,2013,petrol,74457,chennai,hatchback,manual,2,400560,FALSE,386299
+renault,2015,diesel,171979,mumbai,suv,manual,1,475499,FALSE,475399
+hyundai,2017,petrol,10172,pune,hatchback,manual,1,573450,FALSE,460999
+maruti,2012,petrol & cng,104227,mumbai,hatchback,manual,1,275699,FALSE,275599
+hyundai,2015,diesel,47644,new delhi,hatchback,manual,1,612847,FALSE,491399
+volkswagen,2012,petrol,38023,pune,hatchback,manual,1,322799,FALSE,322699
+honda,2015,petrol,59851,noida,sedan,manual,1,568404,FALSE,559599
+honda,2016,petrol,14173,pune,suv,manual,1,691222,FALSE,676899
+mahindra,2017,diesel,32394,mumbai,suv,manual,1,789806,FALSE,705499
+maruti,2014,petrol,43981,ahmedabad,hatchback,manual,1,341956,FALSE,291699
+hyundai,2011,petrol,88720,hyderabad,hatchback,manual,1,286805,FALSE,261699
+maruti,2018,petrol,50364,bengaluru,hatchback,manual,1,735957,FALSE,589399
+mahindra,2012,diesel,59608,new delhi,luxury suv,manual,1,533928,TRUE,438099
+maruti,2016,diesel,59802,pune,suv,manual,1,823167,FALSE,788499
+toyota,2017,diesel,81861,mumbai,luxury suv,automatic,1,2706469,FALSE,2571559
+datsun,2016,petrol,32405,hyderabad,hatchback,manual,1,350873,FALSE,300399
+maruti,2016,petrol,60068,chennai,hatchback,manual,1,566899,FALSE,556199
+mahindra,2016,diesel,69884,faridabad,suv,manual,1,508699,FALSE,504299
+hyundai,2015,diesel,97803,mumbai,suv,automatic,1,922413,FALSE,888899
+toyota,2011,diesel,100743,new delhi,sedan,manual,1,301799,FALSE,231699
+maruti,2012,petrol,50014,mumbai,hatchback,manual,1,255299,FALSE,255199
+maruti,2013,petrol & cng,99985,noida,hatchback,manual,1,230620,FALSE,201799
+maruti,2019,diesel,39681,new delhi,suv,manual,1,808005,FALSE,771599
+hyundai,2018,petrol,21074,bengaluru,hatchback,manual,1,566500,FALSE,562399
+ford,2012,diesel,60930,faridabad,hatchback,manual,1,249046,FALSE,216199
+ford,2018,diesel,71483,hyderabad,suv,manual,1,799699,FALSE,797399
+hyundai,2014,diesel,84023,ghaziabad,sedan,manual,1,611095,FALSE,491399
+maruti,2014,petrol,32555,new delhi,hatchback,manual,1,407990,FALSE,397899
+hyundai,2015,petrol,30511,ahmedabad,hatchback,manual,1,390908,FALSE,316699
+hyundai,2017,petrol,30373,new delhi,hatchback,manual,1,445745,FALSE,425699
+maruti,2010,petrol,42016,new delhi,hatchback,manual,1,179370,FALSE,133199
+maruti,2013,petrol,57033,chennai,hatchback,manual,1,376751,FALSE,323699
+hyundai,2012,petrol,24076,mumbai,hatchback,manual,1,244899,FALSE,244799
+maruti,2017,diesel,69848,ghaziabad,sedan,manual,1,633653,FALSE,615099
+maruti,2016,petrol & cng,37772,mumbai,hatchback,manual,1,428218,FALSE,426399
+renault,2016,petrol,44582,mumbai,hatchback,manual,2,273693,FALSE,237499
+maruti,2019,petrol,12889,chennai,hatchback,manual,1,582699,FALSE,582599
+hyundai,2014,diesel,74024,pune,sedan,manual,2,481076,FALSE,456999
+honda,2012,petrol,81212,new delhi,sedan,automatic,2,423062,FALSE,325799
+maruti,2014,diesel,87125,bengaluru,sedan,manual,2,583980,FALSE,493599
+maruti,2014,diesel,40375,chennai,hatchback,manual,1,500870,FALSE,443599
+renault,2018,petrol,3517,pune,hatchback,automatic,1,427444,FALSE,422099
+maruti,2015,petrol,65380,ahmedabad,hatchback,manual,1,538538,FALSE,441799
+maruti,2014,petrol,88009,mumbai,sedan,manual,1,416899,FALSE,416599
+maruti,2017,petrol,31152,mumbai,hatchback,automatic,1,580680,FALSE,526899
+hyundai,2013,diesel,81363,chennai,hatchback,manual,2,435660,FALSE,387199
+maruti,2017,petrol,61838,noida,sedan,manual,1,788111,FALSE,603699
+maruti,2019,petrol & cng,27346,ahmedabad,suv,manual,1,545918,FALSE,449199
+toyota,2011,diesel,190068,mumbai,luxury suv,manual,2,829599,FALSE,829399
+skoda,2012,diesel,182075,new delhi,sedan,manual,1,310168,FALSE,258499
+maruti,2017,petrol,24104,hyderabad,hatchback,manual,1,652039,FALSE,535399
+maruti,2017,petrol,18913,gurgaon,hatchback,manual,2,313187,FALSE,294299
+maruti,2015,petrol,32821,ahmedabad,hatchback,manual,1,294470,FALSE,232199
+maruti,2010,petrol,40666,new delhi,hatchback,manual,1,234300,FALSE,189699
+volkswagen,2012,petrol,88973,new delhi,sedan,manual,2,564246,FALSE,448699
+maruti,2016,petrol,27245,new delhi,hatchback,manual,1,369885,FALSE,284099
