@@ -6,6 +6,7 @@ from tensorflow import keras
 app = Flask(__name__)
 model_lr = pickle.load(open('linear_regression.pkl', 'rb'))
 model_nn = keras.models.load_model('neural_net.h5')
+model_dt = pickle.load(open('dtree.pkl', 'rb'))
 @app.route('/', methods=['GET'])
 def Home():
     return render_template('index.html')
@@ -34,15 +35,19 @@ def predict():
             
         prediction_lr = model_lr.predict(input)
         prediction_nn = model_nn.predict(input)
+        prediction_dt = model_dt.predict(input)
         output_lr = round(prediction_lr[0], 2)
         output_nn = round(prediction_nn[0][0], 2)
+        output_dt = round(prediction_dt[0], 2)
 
         price=[]
         price.append(output_lr)
         price.append(output_nn)
+        price.append(output_dt)
 
 
         min_price = min(price)
+
         if output_lr < 0:
             return render_template('predict.html', prediction_texts="Sorry you cannot sell this car")
         # else:
