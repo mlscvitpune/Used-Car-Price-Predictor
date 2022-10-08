@@ -7,6 +7,7 @@ app = Flask(__name__)
 model_lr = pickle.load(open('linear_regression.pkl', 'rb'))
 model_nn = keras.models.load_model('neural_net.h5')
 model_dt = pickle.load(open('dtree.pkl', 'rb'))
+model_lasso = pickle.load(open('Lasso_model.pkl','rb')) #Lasso model added
 @app.route('/', methods=['GET'])
 def Home():
     return render_template('index.html')
