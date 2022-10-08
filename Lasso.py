@@ -5,6 +5,7 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import Lasso
 from sklearn import metrics
+import pickle
 
 #Reading the Data
 train_data = pd.read_csv("E:/ET-A/Hacktoberfest/Used-Car-Price-Predictor/final_train.csv")
@@ -56,5 +57,7 @@ pred_test_lasso= Lasso_model.predict(x_test)
 print(np.sqrt(metrics.mean_squared_error(y_test,pred_test_lasso))) 
 print(metrics.r2_score(y_test, pred_test_lasso))
 
+
+pickle.dump(Lasso_model, open('Lasso_model.pkl', 'wb'))
 
 
