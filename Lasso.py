@@ -58,6 +58,6 @@ print(np.sqrt(metrics.mean_squared_error(y_test,pred_test_lasso)))
 print(metrics.r2_score(y_test, pred_test_lasso))
 
 
-pickle.dump(Lasso_model, open('Lasso_model.pkl', 'wb'))
+pickle.dump(Lasso_model, open('Lasso_model.pkl', 'wb')) 
 
 
