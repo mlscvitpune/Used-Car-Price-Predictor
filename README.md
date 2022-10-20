@@ -1,7 +1,7 @@
 # Used-Car-Price-Predictor
 
 ### This is a Machine Learning Project with an aim to predict the resale values of cars using different ML algorithms.
-It 
+
 #### This project comprises of a variety of different models that we can use to showcase how different machine learning algorithms work. Some of the models used are:
 #### Linear Regression
 #### Decision Tree
